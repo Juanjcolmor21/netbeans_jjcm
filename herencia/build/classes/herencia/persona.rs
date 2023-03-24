@@ -1,0 +1,2 @@
+herencia.empleado
+herencia.persona
